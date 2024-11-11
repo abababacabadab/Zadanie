@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand > img {
+    height: 100%;
+    padding: 5px;
+    width: auto;
+}
+
+.logotext {
+    height: 100%;
+    padding: 15px;
+    width: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.pq {
+    display: block;
+    clear: both; 
+    width: auto;
+    padding: 15px;
+    font-size: 22px;
+    background-color: rgba(255, 211, 224, 0.8);
+    border-radius: 15px;
+    margin: 20px 0; 
+    font-style: italic;
+    color: #333;
+    border-left: 5px solid #ff69b4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.pullquote {
+    float: right;
+    clear: right;
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgba(255, 211, 224, 0.5);
+    border-radius: 10px;
+    margin: 20px 0 10px 10px;
+    font-style: italic;
+}
+
